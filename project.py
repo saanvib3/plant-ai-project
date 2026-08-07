@@ -20,5 +20,5 @@ def predict_plant(image_path):
     print(f'Prediction: {class_names[index]} ({confidence:.1f}% confident)')
 
 
-predict_plant('images.jpeg')
-predict_plant('download.jpeg')
+predict_plant('test-data/healthy-homeplant.jpeg')
+predict_plant('test-data/unhealthy-homeplant.jpeg')

@@ -1,2 +1,0 @@
-0 Healthy Plant
-1 Sick Plant
